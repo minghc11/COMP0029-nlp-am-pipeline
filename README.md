@@ -18,4 +18,4 @@ To run `pipeline.py`:
 
 [3] R. Bar-Haim, I. Bhattacharya, F. Dinuzzo, A. Saha, and N. Slonim, “Stance Classification of Context-Dependent Claims,” Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers, pp. 251–261, Jan. 2017, doi: https://doi.org/10.18653/v1/e17-1024.
 
-[4] L. Chen, L. Bing, R. He, Q. Yu, Y. Zhang, and L. Si, “IAM: A comprehensive and large-scale dataset for integrated argument mining tasks,” Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 2277–2287, 2022. doi:10.18653/v1/2022.acl-long.162
+[4] L. Chen, L. Bing, R. He, Q. Yu, Y. Zhang, and L. Si, “IAM: A comprehensive and large-scale dataset for integrated argument mining tasks,” Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 2277–2287, 2022. doi: https://doi.org/10.18653/v1/2022.acl-long.162

@@ -106,7 +106,7 @@ def get_evidences(sentences, result):
         evidence_dataloader = DataLoader(evidence_dataset, batch_size=16)
 
         model_evidence = BERTClassifier(evidence_bert_model_name, 2).to(device)
-        model_evidence.load_state_dict(torch.load("./final_models/claim_evidence.pth", map_location=device))
+        model_evidence.load_state_dict(torch.load("./final_models/evidence.pth", map_location=device))
         model_evidence.eval()
 
         evidence_predictions = get_predictions(evidence_dataloader, model_evidence)

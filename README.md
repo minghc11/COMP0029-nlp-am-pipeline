@@ -10,6 +10,7 @@ To run `pipeline.py`:
 - The ibm_claim_evidence_dataset folder contains the original datasets for the claim detection component and the evidence detection component. It is obtained from [1]
 - The relation_dataset folder contains the original datasets for the relation prediction component. It is obtained from [2]
 - The stance_dataset folder contains the original datasets for the stance detection component. It is obtained from [3] and [4]
+- The output folder contains the predictions of the pipeline on the 20 essays of the validation set. For example, output1 is the prediction for essay 1
 
 ## Bibliography
 [1] Ruty Rinott, L. Dankin, C. A. Perez, M. M. Khapra, E. Aharoni, and N. Slonim, “Show Me Your Evidence – an Automatic Method for Context Dependent Evidence Detection,” Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing, pp. 440–450, Sep. 2015, doi: https://doi.org/10.18653/v1/d15-1050.

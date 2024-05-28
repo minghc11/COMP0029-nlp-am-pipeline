@@ -1,0 +1,260 @@
+{
+    "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.": {
+        "evidence": [
+            "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+            "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+            "This waste is many times more lethal to our environment than any of the other hazardous material."
+        ],
+        "stance": "CON"
+    },
+    "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.": {
+        "evidence": [
+            "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle. As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.",
+            "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power."
+        ],
+        "stance": "CON"
+    },
+    "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.": {
+        "evidence": [
+            "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power. I have several reasons to believe its disadvantages outnumber the few advantages. First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+            "I have several reasons to believe its disadvantages outnumber the few advantages. First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+            "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons."
+        ],
+        "stance": "PRO"
+    },
+    "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity.": {
+        "evidence": [
+            "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity."
+        ],
+        "stance": "PRO"
+    },
+    "This unfortunate event proves that no matter how much careful we are such accidents are inevitable.": {
+        "evidence": [
+            "For example recently there has been an incident in which an atomic power house leaked tons of radio active material into air when an earthquake hit the surrounding area. This unfortunate event proves that no matter how much careful we are such accidents are inevitable.",
+            "This unfortunate event proves that no matter how much careful we are such accidents are inevitable."
+        ],
+        "stance": "CON"
+    },
+    "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power.": {
+        "evidence": [
+            "For example recently there has been an incident in which an atomic power house leaked tons of radio active material into air when an earthquake hit the surrounding area. This unfortunate event proves that no matter how much careful we are such accidents are inevitable. Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power.",
+            "This unfortunate event proves that no matter how much careful we are such accidents are inevitable. Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power.",
+            "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power."
+        ],
+        "stance": "CON"
+    },
+    "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it.": {
+        "evidence": [
+            "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it."
+        ],
+        "stance": "CON"
+    },
+    "This waste is many times more lethal to our environment than any of the other hazardous material.": {
+        "evidence": [
+            "This waste is many times more lethal to our environment than any of the other hazardous material."
+        ],
+        "stance": "PRO"
+    },
+    "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages.": {
+        "evidence": [
+            "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+            "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it. This waste is many times more lethal to our environment than any of the other hazardous material. To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages.",
+            "This waste is many times more lethal to our environment than any of the other hazardous material. To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages.",
+            "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages."
+        ],
+        "stance": "CON"
+    },
+    "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes.": {
+        "evidence": [
+            "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages. Thus I suggest that use of nuclear technology should be discouraged even for civil purposes.",
+            "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+        ],
+        "stance": "CON"
+    },
+    "relations": {
+        "support": [],
+        "attack": [
+            [
+                "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+                "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power."
+            ],
+            [
+                "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+                "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons."
+            ],
+            [
+                "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+                "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity."
+            ],
+            [
+                "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+                "This unfortunate event proves that no matter how much careful we are such accidents are inevitable."
+            ],
+            [
+                "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+                "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power."
+            ],
+            [
+                "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+                "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it."
+            ],
+            [
+                "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+                "This waste is many times more lethal to our environment than any of the other hazardous material."
+            ],
+            [
+                "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+                "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages."
+            ],
+            [
+                "The topic of nuclear technology frequently generates a heated debate with proponents maintaining that nuclear power provides a source of efficient and economical energy while opponents argue that atomic technology is uncontrollable and very dangerous to handle.",
+                "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+            ],
+            [
+                "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.",
+                "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons."
+            ],
+            [
+                "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.",
+                "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity."
+            ],
+            [
+                "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.",
+                "This unfortunate event proves that no matter how much careful we are such accidents are inevitable."
+            ],
+            [
+                "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.",
+                "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power."
+            ],
+            [
+                "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.",
+                "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it."
+            ],
+            [
+                "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.",
+                "This waste is many times more lethal to our environment than any of the other hazardous material."
+            ],
+            [
+                "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.",
+                "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages."
+            ],
+            [
+                "As far as my opinion is concerned, I find myself aligned with opponents of the usages of nuclear power.",
+                "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+            ],
+            [
+                "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+                "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity."
+            ],
+            [
+                "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+                "This unfortunate event proves that no matter how much careful we are such accidents are inevitable."
+            ],
+            [
+                "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+                "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power."
+            ],
+            [
+                "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+                "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it."
+            ],
+            [
+                "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+                "This waste is many times more lethal to our environment than any of the other hazardous material."
+            ],
+            [
+                "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+                "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages."
+            ],
+            [
+                "First and foremost reason is that pursuit of nuclear technology one way or the other leads towards atomic weapons.",
+                "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+            ],
+            [
+                "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity.",
+                "This unfortunate event proves that no matter how much careful we are such accidents are inevitable."
+            ],
+            [
+                "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity.",
+                "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power."
+            ],
+            [
+                "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity.",
+                "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it."
+            ],
+            [
+                "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity.",
+                "This waste is many times more lethal to our environment than any of the other hazardous material."
+            ],
+            [
+                "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity.",
+                "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages."
+            ],
+            [
+                "Another reason to fortify my opinion is that even civil usages of atomic power pose a dire threat of radio activity.",
+                "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+            ],
+            [
+                "This unfortunate event proves that no matter how much careful we are such accidents are inevitable.",
+                "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power."
+            ],
+            [
+                "This unfortunate event proves that no matter how much careful we are such accidents are inevitable.",
+                "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it."
+            ],
+            [
+                "This unfortunate event proves that no matter how much careful we are such accidents are inevitable.",
+                "This waste is many times more lethal to our environment than any of the other hazardous material."
+            ],
+            [
+                "This unfortunate event proves that no matter how much careful we are such accidents are inevitable.",
+                "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages."
+            ],
+            [
+                "This unfortunate event proves that no matter how much careful we are such accidents are inevitable.",
+                "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+            ],
+            [
+                "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power.",
+                "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it."
+            ],
+            [
+                "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power.",
+                "This waste is many times more lethal to our environment than any of the other hazardous material."
+            ],
+            [
+                "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power.",
+                "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages."
+            ],
+            [
+                "Last but not least, while generating energy from any source be it hydro power or oil there always is some wastage and so is the case with nuclear power.",
+                "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+            ],
+            [
+                "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it.",
+                "This waste is many times more lethal to our environment than any of the other hazardous material."
+            ],
+            [
+                "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it.",
+                "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages."
+            ],
+            [
+                "Safely getting rid of nuclear waste is a daunting task and there has not been any permanent solution of it.",
+                "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+            ],
+            [
+                "This waste is many times more lethal to our environment than any of the other hazardous material.",
+                "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages."
+            ],
+            [
+                "This waste is many times more lethal to our environment than any of the other hazardous material.",
+                "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+            ],
+            [
+                "To sum it up, from above mentioned facts it can easily be deduced that nuclear power may appear silver bullet for energy crisis but its disadvantages far outweigh the advantages.",
+                "Thus I suggest that use of nuclear technology should be discouraged even for civil purposes."
+            ]
+        ],
+        "no_relation": []
+    }
+}

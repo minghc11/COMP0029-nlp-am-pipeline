@@ -1,0 +1,263 @@
+{
+    "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.": {
+        "evidence": [
+            "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+            "Although modern technology make it possible, I still believe some museums and art galleries will not disappear."
+        ],
+        "stance": "CON"
+    },
+    "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.": {
+        "evidence": [
+            "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon. Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+            "Although modern technology make it possible, I still believe some museums and art galleries will not disappear."
+        ],
+        "stance": "CON"
+    },
+    "On the one hand, technology indeed simplifies people's life all the time.": {
+        "evidence": [
+            "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon. Although modern technology make it possible, I still believe some museums and art galleries will not disappear. On the one hand, technology indeed simplifies people's life all the time.",
+            "On the one hand, technology indeed simplifies people's life all the time."
+        ],
+        "stance": "CON"
+    },
+    "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society.": {
+        "evidence": [
+            "Although modern technology make it possible, I still believe some museums and art galleries will not disappear. On the one hand, technology indeed simplifies people's life all the time. Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society.",
+            "On the one hand, technology indeed simplifies people's life all the time. Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society.",
+            "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society."
+        ],
+        "stance": "CON"
+    },
+    "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication.": {
+        "evidence": [
+            "On the one hand, technology indeed simplifies people's life all the time. Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society. However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication.",
+            "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society. However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication.",
+            "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication."
+        ],
+        "stance": "PRO"
+    },
+    "On the other hand, the importance of museums and art galleries is plain in terms of education and culture.": {
+        "evidence": [
+            "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication. On the other hand, the importance of museums and art galleries is plain in terms of education and culture.",
+            "On the other hand, the importance of museums and art galleries is plain in terms of education and culture."
+        ],
+        "stance": "CON"
+    },
+    "First of all, authentic exhibits cannot be completely displayed only by images and videos.": {
+        "evidence": [
+            "First of all, authentic exhibits cannot be completely displayed only by images and videos."
+        ],
+        "stance": "CON"
+    },
+    "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it.": {
+        "evidence": [
+            "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it."
+        ],
+        "stance": "CON"
+    },
+    "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture.": {
+        "evidence": [
+            "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture."
+        ],
+        "stance": "CON"
+    },
+    "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture.": {
+        "evidence": [
+            "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+            "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon. Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+            "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+            "On the one hand, technology indeed simplifies people's life all the time.",
+            "On the other hand, the importance of museums and art galleries is plain in terms of education and culture.",
+            "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture. In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture.",
+            "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+        ],
+        "stance": "CON"
+    },
+    "relations": {
+        "support": [
+            [
+                "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+                "Although modern technology make it possible, I still believe some museums and art galleries will not disappear."
+            ],
+            [
+                "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+                "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society."
+            ],
+            [
+                "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+                "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it."
+            ],
+            [
+                "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+                "On the one hand, technology indeed simplifies people's life all the time."
+            ],
+            [
+                "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+                "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society."
+            ],
+            [
+                "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+                "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication."
+            ],
+            [
+                "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+                "On the other hand, the importance of museums and art galleries is plain in terms of education and culture."
+            ],
+            [
+                "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+                "First of all, authentic exhibits cannot be completely displayed only by images and videos."
+            ],
+            [
+                "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+                "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it."
+            ],
+            [
+                "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+                "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture."
+            ],
+            [
+                "Although modern technology make it possible, I still believe some museums and art galleries will not disappear.",
+                "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+            ],
+            [
+                "On the one hand, technology indeed simplifies people's life all the time.",
+                "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society."
+            ],
+            [
+                "On the one hand, technology indeed simplifies people's life all the time.",
+                "On the other hand, the importance of museums and art galleries is plain in terms of education and culture."
+            ],
+            [
+                "On the one hand, technology indeed simplifies people's life all the time.",
+                "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it."
+            ],
+            [
+                "On the one hand, technology indeed simplifies people's life all the time.",
+                "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture."
+            ],
+            [
+                "On the one hand, technology indeed simplifies people's life all the time.",
+                "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+            ],
+            [
+                "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society.",
+                "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication."
+            ],
+            [
+                "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society.",
+                "On the other hand, the importance of museums and art galleries is plain in terms of education and culture."
+            ],
+            [
+                "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society.",
+                "First of all, authentic exhibits cannot be completely displayed only by images and videos."
+            ],
+            [
+                "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society.",
+                "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it."
+            ],
+            [
+                "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society.",
+                "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture."
+            ],
+            [
+                "Obviously, people who watch exhibitions on TV or internet at home, save the time and money on the road, which is increasingly significant particularly to people in modern society.",
+                "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+            ],
+            [
+                "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication.",
+                "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture."
+            ],
+            [
+                "On the other hand, the importance of museums and art galleries is plain in terms of education and culture.",
+                "First of all, authentic exhibits cannot be completely displayed only by images and videos."
+            ],
+            [
+                "On the other hand, the importance of museums and art galleries is plain in terms of education and culture.",
+                "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it."
+            ],
+            [
+                "On the other hand, the importance of museums and art galleries is plain in terms of education and culture.",
+                "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture."
+            ],
+            [
+                "On the other hand, the importance of museums and art galleries is plain in terms of education and culture.",
+                "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+            ],
+            [
+                "First of all, authentic exhibits cannot be completely displayed only by images and videos.",
+                "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it."
+            ],
+            [
+                "First of all, authentic exhibits cannot be completely displayed only by images and videos.",
+                "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture."
+            ],
+            [
+                "First of all, authentic exhibits cannot be completely displayed only by images and videos.",
+                "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+            ],
+            [
+                "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it.",
+                "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture."
+            ],
+            [
+                "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture.",
+                "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+            ]
+        ],
+        "attack": [
+            [
+                "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+                "On the one hand, technology indeed simplifies people's life all the time."
+            ],
+            [
+                "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+                "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication."
+            ],
+            [
+                "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+                "On the other hand, the importance of museums and art galleries is plain in terms of education and culture."
+            ],
+            [
+                "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+                "First of all, authentic exhibits cannot be completely displayed only by images and videos."
+            ],
+            [
+                "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+                "Furthermore, museums and art galleries preserve some culture heritages; therefore, these buildings will not disappear unless people abandon their culture."
+            ],
+            [
+                "It is quite common that more and more people can watch exhibitions through television or internet at home due to modern technology; therefore, some people think museums and art galleries will disappear soon.",
+                "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+            ],
+            [
+                "On the one hand, technology indeed simplifies people's life all the time.",
+                "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication."
+            ],
+            [
+                "On the one hand, technology indeed simplifies people's life all the time.",
+                "First of all, authentic exhibits cannot be completely displayed only by images and videos."
+            ],
+            [
+                "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication.",
+                "On the other hand, the importance of museums and art galleries is plain in terms of education and culture."
+            ],
+            [
+                "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication.",
+                "First of all, authentic exhibits cannot be completely displayed only by images and videos."
+            ],
+            [
+                "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication.",
+                "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it."
+            ],
+            [
+                "However, in accordance with recent research, experts suggest the lifestyle of individuals in modern society is unhealthy because they lack of physical exercise and face-to-face communication.",
+                "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+            ],
+            [
+                "It is like travelling to a place is much better than viewing the landscape of that place on TV or photos, so the best method to learn one thing is to experience it.",
+                "In conclusion, I admit that modern technology has provided a more convenient and comfortable manner for people to watch exhibitions, but museums and art galleries are necessary to be preserved for its importance of education and culture."
+            ]
+        ],
+        "no_relation": []
+    }
+}

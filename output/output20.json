@@ -1,0 +1,25 @@
+{
+    "In the first place, children are free whatever they want to do, they are not restricted and their limitation are really rare.": {
+        "evidence": [
+            "In the first place, children are free whatever they want to do, they are not restricted and their limitation are really rare."
+        ],
+        "stance": "PRO"
+    },
+    "All in all, I would maintain that the best phase of people life is their childhood.": {
+        "evidence": [
+            "In my opinion, childhood is definitely the happiest time of people life in two main areas.",
+            "All in all, I would maintain that the best phase of people life is their childhood."
+        ],
+        "stance": "CON"
+    },
+    "relations": {
+        "support": [
+            [
+                "In the first place, children are free whatever they want to do, they are not restricted and their limitation are really rare.",
+                "All in all, I would maintain that the best phase of people life is their childhood."
+            ]
+        ],
+        "attack": [],
+        "no_relation": []
+    }
+}

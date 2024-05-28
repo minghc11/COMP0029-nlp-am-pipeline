@@ -1,0 +1,405 @@
+{
+    "Nowadays, thanks to the development of technology, computer is now indispensable to life.": {
+        "evidence": [
+            "Nowadays, thanks to the development of technology, computer is now indispensable to life."
+        ],
+        "stance": "CON"
+    },
+    "Some people think that computer is good for children and it should be used daily by children but some others think differently.": {
+        "evidence": [
+            "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+            "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+        ],
+        "stance": "CON"
+    },
+    "In my opinion, the latter opinion is true.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "First, using computer constantly has bad influence on children's eyes.": {
+        "evidence": [
+            "Some people think that computer is good for children and it should be used daily by children but some others think differently. In my opinion, the latter opinion is true. First, using computer constantly has bad influence on children's eyes.",
+            "In my opinion, the latter opinion is true. First, using computer constantly has bad influence on children's eyes."
+        ],
+        "stance": "CON"
+    },
+    "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.": {
+        "evidence": [
+            "First, using computer constantly has bad influence on children's eyes. When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.",
+            "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted."
+        ],
+        "stance": "CON"
+    },
+    "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life.": {
+        "evidence": [
+            "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted. Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life.",
+            "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life."
+        ],
+        "stance": "PRO"
+    },
+    "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences.": {
+        "evidence": [
+            "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life. It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences.",
+            "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences."
+        ],
+        "stance": "PRO"
+    },
+    "Finally, even people who are not interested in online game can still be negatively affected by using computer too much.": {
+        "evidence": [
+            "For instance, several teenagers play games without rest, which leads to health depression, a typical example is the death of Korean gamer, who had a non-stop playing for 3 days. Finally, even people who are not interested in online game can still be negatively affected by using computer too much.",
+            "Finally, even people who are not interested in online game can still be negatively affected by using computer too much."
+        ],
+        "stance": "CON"
+    },
+    "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc.": {
+        "evidence": [
+            "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc.",
+            "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc. instead."
+        ],
+        "stance": "CON"
+    },
+    "instead.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying.": {
+        "evidence": [
+            "instead. Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying.",
+            "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+        ],
+        "stance": "PRO"
+    },
+    "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children.": {
+        "evidence": [
+            "Nowadays, thanks to the development of technology, computer is now indispensable to life. Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+            "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+            "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying. In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children.",
+            "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+        ],
+        "stance": "CON"
+    },
+    "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "relations": {
+        "support": [
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "instead.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "instead.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ]
+        ],
+        "attack": [
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "In my opinion, the latter opinion is true."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "First, using computer constantly has bad influence on children's eyes."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "instead."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "Nowadays, thanks to the development of technology, computer is now indispensable to life.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "First, using computer constantly has bad influence on children's eyes."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "First, using computer constantly has bad influence on children's eyes."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "First, using computer constantly has bad influence on children's eyes.",
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted."
+            ],
+            [
+                "First, using computer constantly has bad influence on children's eyes.",
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life."
+            ],
+            [
+                "First, using computer constantly has bad influence on children's eyes.",
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences."
+            ],
+            [
+                "First, using computer constantly has bad influence on children's eyes.",
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much."
+            ],
+            [
+                "First, using computer constantly has bad influence on children's eyes.",
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc."
+            ],
+            [
+                "First, using computer constantly has bad influence on children's eyes.",
+                "instead."
+            ],
+            [
+                "First, using computer constantly has bad influence on children's eyes.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "First, using computer constantly has bad influence on children's eyes.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "First, using computer constantly has bad influence on children's eyes.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.",
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life."
+            ],
+            [
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.",
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences."
+            ],
+            [
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.",
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much."
+            ],
+            [
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.",
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc."
+            ],
+            [
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.",
+                "instead."
+            ],
+            [
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "When they concentrate on computer for too long, their eyes will get tired, which is the main reason for some eyes problems, typically shortsighted.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life.",
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences."
+            ],
+            [
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life.",
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much."
+            ],
+            [
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life.",
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc."
+            ],
+            [
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life.",
+                "instead."
+            ],
+            [
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "Moreover, children who play games too much on computer can seriously lack communicating skills, they will know little about the outside life.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences.",
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much."
+            ],
+            [
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences.",
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc."
+            ],
+            [
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences.",
+                "instead."
+            ],
+            [
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "It is a well-known fact that people who are addicted to games, especially online games, can eventually bear dangerous consequences.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much.",
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc."
+            ],
+            [
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much.",
+                "instead."
+            ],
+            [
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "Finally, even people who are not interested in online game can still be negatively affected by using computer too much.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc.",
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying."
+            ],
+            [
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "instead.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "Due to this neglect, they will have a bad result in school because when they can not live without internet, they will have no time for their studying.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ],
+            [
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children.",
+                "People should learn how to use it properly to make it an effective tool because computer should be used not only for entertaining but also for working and studying purpose."
+            ]
+        ],
+        "no_relation": [
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "In my opinion, the latter opinion is true."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc."
+            ],
+            [
+                "Some people think that computer is good for children and it should be used daily by children but some others think differently.",
+                "instead."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "instead."
+            ],
+            [
+                "In my opinion, the latter opinion is true.",
+                "In conclusion, although it is undeniable that computer is a crucial part of human life, it still has its bad side, especially for children."
+            ],
+            [
+                "Some social surveys have shown that a few children use computer for studying purpose, most of them are attracted by facebook, blog, etc.",
+                "instead."
+            ]
+        ]
+    }
+}

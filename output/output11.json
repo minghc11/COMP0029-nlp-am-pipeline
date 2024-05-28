@@ -1,0 +1,460 @@
+{
+    "Libraries and sports activities play important roles in universities success.": {
+        "evidence": [
+            "Libraries and sports activities play important roles in universities success.",
+            "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income."
+        ],
+        "stance": "PRO"
+    },
+    "In my opinion universities should invest in libraries more than anywhere else.": {
+        "evidence": [
+            "In my opinion universities should invest in libraries more than anywhere else."
+        ],
+        "stance": "PRO"
+    },
+    "First, I think a library is vital and strategical part of a university.": {
+        "evidence": [
+            "In my opinion universities should invest in libraries more than anywhere else. First, I think a library is vital and strategical part of a university.",
+            "First, I think a library is vital and strategical part of a university."
+        ],
+        "stance": "PRO"
+    },
+    "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.": {
+        "evidence": [
+            "First, I think a library is vital and strategical part of a university. All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+            "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research."
+        ],
+        "stance": "PRO"
+    },
+    "Although sport is important, it does not have the same priority of library has.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "Second, usually libraries do not have income.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "Hence, universities support is vital for libraries.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors.": {
+        "evidence": [
+            "Hence, universities support is vital for libraries. But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors.",
+            "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors."
+        ],
+        "stance": "PRO"
+    },
+    "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income.": {
+        "evidence": [
+            "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors.",
+            "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors. Also, they have this chance to sell their important matches tickets. To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income.",
+            "Also, they have this chance to sell their important matches tickets. To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income.",
+            "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income.",
+            "In spite of the importance of sports activities, libraries are more important.",
+            "They are critical part of universities and a good university has to have a modern library."
+        ],
+        "stance": "CON"
+    },
+    "Last but not least, investing in libraries has a long-time result.": {
+        "evidence": [
+            "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income. Last but not least, investing in libraries has a long-time result.",
+            "Last but not least, investing in libraries has a long-time result."
+        ],
+        "stance": "PRO"
+    },
+    "Besides, in the far future, they become more valuable.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time.": {
+        "evidence": [
+            "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+        ],
+        "stance": "CON"
+    },
+    "In spite of the importance of sports activities, libraries are more important.": {
+        "evidence": [
+            "In spite of the importance of sports activities, libraries are more important."
+        ],
+        "stance": "PRO"
+    },
+    "They are critical part of universities and a good university has to have a modern library.": {
+        "evidence": [
+            "They are critical part of universities and a good university has to have a modern library."
+        ],
+        "stance": "PRO"
+    },
+    "relations": {
+        "support": [
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "In my opinion universities should invest in libraries more than anywhere else."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "First, I think a library is vital and strategical part of a university."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "Hence, universities support is vital for libraries."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "Last but not least, investing in libraries has a long-time result."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "First, I think a library is vital and strategical part of a university."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "Second, usually libraries do not have income."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "Hence, universities support is vital for libraries."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "Last but not least, investing in libraries has a long-time result."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "Hence, universities support is vital for libraries."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "Last but not least, investing in libraries has a long-time result."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "Second, usually libraries do not have income."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "Hence, universities support is vital for libraries."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "Last but not least, investing in libraries has a long-time result."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "Although sport is important, it does not have the same priority of library has.",
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors."
+            ],
+            [
+                "Second, usually libraries do not have income.",
+                "Hence, universities support is vital for libraries."
+            ],
+            [
+                "Second, usually libraries do not have income.",
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors."
+            ],
+            [
+                "Hence, universities support is vital for libraries.",
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors."
+            ],
+            [
+                "Hence, universities support is vital for libraries.",
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income."
+            ],
+            [
+                "Hence, universities support is vital for libraries.",
+                "Last but not least, investing in libraries has a long-time result."
+            ],
+            [
+                "Hence, universities support is vital for libraries.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "Hence, universities support is vital for libraries.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "Hence, universities support is vital for libraries.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "Hence, universities support is vital for libraries.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors.",
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income."
+            ],
+            [
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors.",
+                "Last but not least, investing in libraries has a long-time result."
+            ],
+            [
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "But sport activities have a good income because every sport has different matches and for each match they have a lot sponsors.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "Last but not least, investing in libraries has a long-time result.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "Last but not least, investing in libraries has a long-time result.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "Last but not least, investing in libraries has a long-time result.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "Last but not least, investing in libraries has a long-time result.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "Besides, in the far future, they become more valuable.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "Besides, in the far future, they become more valuable.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "Besides, in the far future, they become more valuable.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "In spite of the importance of sports activities, libraries are more important.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ]
+        ],
+        "attack": [
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "Second, usually libraries do not have income."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income."
+            ],
+            [
+                "Although sport is important, it does not have the same priority of library has.",
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income."
+            ],
+            [
+                "Although sport is important, it does not have the same priority of library has.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "Second, usually libraries do not have income.",
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income."
+            ],
+            [
+                "Second, usually libraries do not have income.",
+                "Last but not least, investing in libraries has a long-time result."
+            ],
+            [
+                "Second, usually libraries do not have income.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "Second, usually libraries do not have income.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "Second, usually libraries do not have income.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "Second, usually libraries do not have income.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income.",
+                "Last but not least, investing in libraries has a long-time result."
+            ],
+            [
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ],
+            [
+                "To conclude, there are good ways for sports activities to compensate their expenses, but it is very hard for libraries to find a good way for have an income.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ]
+        ],
+        "no_relation": [
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "Although sport is important, it does not have the same priority of library has."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "Second, usually libraries do not have income."
+            ],
+            [
+                "Libraries and sports activities play important roles in universities success.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "In my opinion universities should invest in libraries more than anywhere else.",
+                "Although sport is important, it does not have the same priority of library has."
+            ],
+            [
+                "First, I think a library is vital and strategical part of a university.",
+                "Although sport is important, it does not have the same priority of library has."
+            ],
+            [
+                "All professors and students need to have a modern and well-equipped library because, after internet, library plays an important role in research.",
+                "Although sport is important, it does not have the same priority of library has."
+            ],
+            [
+                "Although sport is important, it does not have the same priority of library has.",
+                "Second, usually libraries do not have income."
+            ],
+            [
+                "Although sport is important, it does not have the same priority of library has.",
+                "Hence, universities support is vital for libraries."
+            ],
+            [
+                "Although sport is important, it does not have the same priority of library has.",
+                "Last but not least, investing in libraries has a long-time result."
+            ],
+            [
+                "Although sport is important, it does not have the same priority of library has.",
+                "Besides, in the far future, they become more valuable."
+            ],
+            [
+                "Although sport is important, it does not have the same priority of library has.",
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time."
+            ],
+            [
+                "Although sport is important, it does not have the same priority of library has.",
+                "They are critical part of universities and a good university has to have a modern library."
+            ],
+            [
+                "On the other side, most sports facilities except buildings are usually can be used in short-time and they are not persistent for a long-time.",
+                "In spite of the importance of sports activities, libraries are more important."
+            ]
+        ]
+    }
+}

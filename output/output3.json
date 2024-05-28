@@ -1,0 +1,536 @@
+{
+    "Technology accelerates human's evolving pace.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "With advanced technology, many things that seemed impossible in the past, have become realities.": {
+        "evidence": [
+            "With advanced technology, many things that seemed impossible in the past, have become realities."
+        ],
+        "stance": "CON"
+    },
+    "However, some people point that technology has made children less creative.": {
+        "evidence": [
+            "For example, people in the past never dreamed of talking to anyone whenever they wanted or see someone overseas on a computer screen, both of these can be achieved with cellphone and internet. However, some people point that technology has made children less creative.",
+            "However, some people point that technology has made children less creative.",
+            "However, some people point that technology has made children less creative. I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative."
+        ],
+        "stance": "PRO"
+    },
+    "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.": {
+        "evidence": [
+            "For example, people in the past never dreamed of talking to anyone whenever they wanted or see someone overseas on a computer screen, both of these can be achieved with cellphone and internet. However, some people point that technology has made children less creative. I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "However, some people point that technology has made children less creative.",
+            "However, some people point that technology has made children less creative. I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+            "Admittedly, technology may have negative effects on children."
+        ],
+        "stance": "CON"
+    },
+    "First, technology inspires children to create new things.": {
+        "evidence": [
+            "However, some people point that technology has made children less creative. I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "However, some people point that technology has made children less creative. I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative. First, technology inspires children to create new things.",
+            "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative. First, technology inspires children to create new things."
+        ],
+        "stance": "CON"
+    },
+    "After he had figured out all the stuff, he then began to promote the computer.": {
+        "evidence": [
+            "For example, Bill Gates was attracted by the original huge computer, then he did everything he could to understand how it worked. After he had figured out all the stuff, he then began to promote the computer."
+        ],
+        "stance": "CON"
+    },
+    "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.": {
+        "evidence": [
+            "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "In the end, he successfully invented a computer that was easy to use and lightweight. Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+            "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create."
+        ],
+        "stance": "CON"
+    },
+    "Second, technology widen children's knowledge.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "In the past, children were only able to see things from one perspective.": {
+        "evidence": [
+            "In the past, children were only able to see things from one perspective."
+        ],
+        "stance": "PRO"
+    },
+    "Knowledge is the base of creativity.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things.": {
+        "evidence": [
+            "Therefore, they will be able to learn about different cultures and different ways of thinking. Knowledge is the base of creativity. The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things.",
+            "Knowledge is the base of creativity. The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things.",
+            "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+        ],
+        "stance": "CON"
+    },
+    "Admittedly, technology may have negative effects on children.": {
+        "evidence": [
+            "However, some people point that technology has made children less creative. I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things. Admittedly, technology may have negative effects on children.",
+            "Admittedly, technology may have negative effects on children."
+        ],
+        "stance": "PRO"
+    },
+    "Technology has made life too easy for most children.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change.": {
+        "evidence": [
+            "However, some people point that technology has made children less creative. I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "Admittedly, technology may have negative effects on children. Technology has made life too easy for most children. In comfortable conditions, children may be satisfied with the world around them and refuse to make a change.",
+            "Technology has made life too easy for most children. In comfortable conditions, children may be satisfied with the world around them and refuse to make a change.",
+            "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+        ],
+        "stance": "CON"
+    },
+    "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products.": {
+        "evidence": [
+            "However, some people point that technology has made children less creative.",
+            "However, some people point that technology has made children less creative. I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+            "Technology has made life too easy for most children. In comfortable conditions, children may be satisfied with the world around them and refuse to make a change. Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products.",
+            "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change. Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products.",
+            "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+        ],
+        "stance": "CON"
+    },
+    "relations": {
+        "support": [
+            [
+                "Technology accelerates human's evolving pace.",
+                "With advanced technology, many things that seemed impossible in the past, have become realities."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "First, technology inspires children to create new things."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "After he had figured out all the stuff, he then began to promote the computer."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "Second, technology widen children's knowledge."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "In the past, children were only able to see things from one perspective."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "Knowledge is the base of creativity."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "First, technology inspires children to create new things."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "After he had figured out all the stuff, he then began to promote the computer."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "Second, technology widen children's knowledge."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "In the past, children were only able to see things from one perspective."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "Knowledge is the base of creativity."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "First, technology inspires children to create new things."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "After he had figured out all the stuff, he then began to promote the computer."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "Second, technology widen children's knowledge."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "In the past, children were only able to see things from one perspective."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "Knowledge is the base of creativity."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "After he had figured out all the stuff, he then began to promote the computer."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "Second, technology widen children's knowledge."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "In the past, children were only able to see things from one perspective."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "Knowledge is the base of creativity."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "After he had figured out all the stuff, he then began to promote the computer.",
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create."
+            ],
+            [
+                "After he had figured out all the stuff, he then began to promote the computer.",
+                "Second, technology widen children's knowledge."
+            ],
+            [
+                "After he had figured out all the stuff, he then began to promote the computer.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "After he had figured out all the stuff, he then began to promote the computer.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+                "Second, technology widen children's knowledge."
+            ],
+            [
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+                "In the past, children were only able to see things from one perspective."
+            ],
+            [
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+                "Knowledge is the base of creativity."
+            ],
+            [
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "Second, technology widen children's knowledge.",
+                "In the past, children were only able to see things from one perspective."
+            ],
+            [
+                "Second, technology widen children's knowledge.",
+                "Knowledge is the base of creativity."
+            ],
+            [
+                "Second, technology widen children's knowledge.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "Second, technology widen children's knowledge.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "Second, technology widen children's knowledge.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "In the past, children were only able to see things from one perspective.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "In the past, children were only able to see things from one perspective.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "Knowledge is the base of creativity.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "Knowledge is the base of creativity.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "Technology has made life too easy for most children.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "Technology has made life too easy for most children.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ]
+        ],
+        "attack": [
+            [
+                "Technology accelerates human's evolving pace.",
+                "However, some people point that technology has made children less creative."
+            ],
+            [
+                "Technology accelerates human's evolving pace.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "However, some people point that technology has made children less creative."
+            ],
+            [
+                "With advanced technology, many things that seemed impossible in the past, have become realities.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "First, technology inspires children to create new things."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "After he had figured out all the stuff, he then began to promote the computer."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "Second, technology widen children's knowledge."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "In the past, children were only able to see things from one perspective."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "Knowledge is the base of creativity."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "However, some people point that technology has made children less creative.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "I don't deny that technology may have some negative effects on children, but I think technology makes children even more creative.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "First, technology inspires children to create new things.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "After he had figured out all the stuff, he then began to promote the computer.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "After he had figured out all the stuff, he then began to promote the computer.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "Therefore, instead of interfering children's creativity, technology actually encourages children to learn and to create.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "Second, technology widen children's knowledge.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "Second, technology widen children's knowledge.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "In the past, children were only able to see things from one perspective.",
+                "Knowledge is the base of creativity."
+            ],
+            [
+                "In the past, children were only able to see things from one perspective.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "In the past, children were only able to see things from one perspective.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "In the past, children were only able to see things from one perspective.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "Knowledge is the base of creativity.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "Knowledge is the base of creativity.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "Knowledge is the base of creativity.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "The diverse knowledge that children gained from different parts of the world, inspires children and encourage them to create new things.",
+                "Admittedly, technology may have negative effects on children."
+            ],
+            [
+                "Admittedly, technology may have negative effects on children.",
+                "Technology has made life too easy for most children."
+            ],
+            [
+                "Admittedly, technology may have negative effects on children.",
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change."
+            ],
+            [
+                "Admittedly, technology may have negative effects on children.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ],
+            [
+                "In comfortable conditions, children may be satisfied with the world around them and refuse to make a change.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ]
+        ],
+        "no_relation": [
+            [
+                "After he had figured out all the stuff, he then began to promote the computer.",
+                "In the past, children were only able to see things from one perspective."
+            ],
+            [
+                "After he had figured out all the stuff, he then began to promote the computer.",
+                "Knowledge is the base of creativity."
+            ],
+            [
+                "After he had figured out all the stuff, he then began to promote the computer.",
+                "Nonetheless, with the development of technology, increasingly more young people become obsessed with high-tech products."
+            ]
+        ]
+    }
+}

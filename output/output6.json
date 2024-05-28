@@ -1,0 +1,198 @@
+{
+    "\"Nowadays men and women are equally participating in every field.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "This factor is still affecting thinking of many people.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "They still believe that in present time women must do such type of work only.": {
+        "evidence": [
+            "They still believe that in present time women must do such type of work only."
+        ],
+        "stance": "CON"
+    },
+    "This tendency enforces universities to accept student according to the gender.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "Universities should accept equal numbers of students of both genders.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor.": {
+        "evidence": [
+            "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor."
+        ],
+        "stance": "PRO"
+    },
+    "Furthermore, university authority must not be biased on ground of the gender discrimination.": {
+        "evidence": [
+            "Furthermore, university authority must not be biased on ground of the gender discrimination."
+        ],
+        "stance": "PRO"
+    },
+    "To conclude, I strongly believe that universities must open choice for everyone to select his subject.": {
+        "evidence": [
+            "Therefore, universities follow the requirement of job providers and decide subject suitable for particular gender.",
+            "To conclude, I strongly believe that universities must open choice for everyone to select his subject."
+        ],
+        "stance": "CON"
+    },
+    "So we must give them opportunity to achieve their goal.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "relations": {
+        "support": [
+            [
+                "\"Nowadays men and women are equally participating in every field.",
+                "Universities should accept equal numbers of students of both genders."
+            ],
+            [
+                "\"Nowadays men and women are equally participating in every field.",
+                "Furthermore, university authority must not be biased on ground of the gender discrimination."
+            ],
+            [
+                "\"Nowadays men and women are equally participating in every field.",
+                "To conclude, I strongly believe that universities must open choice for everyone to select his subject."
+            ],
+            [
+                "This tendency enforces universities to accept student according to the gender.",
+                "Furthermore, university authority must not be biased on ground of the gender discrimination."
+            ],
+            [
+                "Universities should accept equal numbers of students of both genders.",
+                "Furthermore, university authority must not be biased on ground of the gender discrimination."
+            ],
+            [
+                "Universities should accept equal numbers of students of both genders.",
+                "So we must give them opportunity to achieve their goal."
+            ],
+            [
+                "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor.",
+                "Furthermore, university authority must not be biased on ground of the gender discrimination."
+            ],
+            [
+                "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor.",
+                "So we must give them opportunity to achieve their goal."
+            ],
+            [
+                "Furthermore, university authority must not be biased on ground of the gender discrimination.",
+                "To conclude, I strongly believe that universities must open choice for everyone to select his subject."
+            ],
+            [
+                "Furthermore, university authority must not be biased on ground of the gender discrimination.",
+                "So we must give them opportunity to achieve their goal."
+            ],
+            [
+                "To conclude, I strongly believe that universities must open choice for everyone to select his subject.",
+                "So we must give them opportunity to achieve their goal."
+            ]
+        ],
+        "attack": [],
+        "no_relation": [
+            [
+                "\"Nowadays men and women are equally participating in every field.",
+                "This factor is still affecting thinking of many people."
+            ],
+            [
+                "\"Nowadays men and women are equally participating in every field.",
+                "They still believe that in present time women must do such type of work only."
+            ],
+            [
+                "\"Nowadays men and women are equally participating in every field.",
+                "This tendency enforces universities to accept student according to the gender."
+            ],
+            [
+                "\"Nowadays men and women are equally participating in every field.",
+                "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor."
+            ],
+            [
+                "\"Nowadays men and women are equally participating in every field.",
+                "So we must give them opportunity to achieve their goal."
+            ],
+            [
+                "This factor is still affecting thinking of many people.",
+                "They still believe that in present time women must do such type of work only."
+            ],
+            [
+                "This factor is still affecting thinking of many people.",
+                "This tendency enforces universities to accept student according to the gender."
+            ],
+            [
+                "This factor is still affecting thinking of many people.",
+                "Universities should accept equal numbers of students of both genders."
+            ],
+            [
+                "This factor is still affecting thinking of many people.",
+                "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor."
+            ],
+            [
+                "This factor is still affecting thinking of many people.",
+                "Furthermore, university authority must not be biased on ground of the gender discrimination."
+            ],
+            [
+                "This factor is still affecting thinking of many people.",
+                "To conclude, I strongly believe that universities must open choice for everyone to select his subject."
+            ],
+            [
+                "This factor is still affecting thinking of many people.",
+                "So we must give them opportunity to achieve their goal."
+            ],
+            [
+                "They still believe that in present time women must do such type of work only.",
+                "This tendency enforces universities to accept student according to the gender."
+            ],
+            [
+                "They still believe that in present time women must do such type of work only.",
+                "Universities should accept equal numbers of students of both genders."
+            ],
+            [
+                "They still believe that in present time women must do such type of work only.",
+                "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor."
+            ],
+            [
+                "They still believe that in present time women must do such type of work only.",
+                "Furthermore, university authority must not be biased on ground of the gender discrimination."
+            ],
+            [
+                "They still believe that in present time women must do such type of work only.",
+                "To conclude, I strongly believe that universities must open choice for everyone to select his subject."
+            ],
+            [
+                "They still believe that in present time women must do such type of work only.",
+                "So we must give them opportunity to achieve their goal."
+            ],
+            [
+                "This tendency enforces universities to accept student according to the gender.",
+                "Universities should accept equal numbers of students of both genders."
+            ],
+            [
+                "This tendency enforces universities to accept student according to the gender.",
+                "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor."
+            ],
+            [
+                "This tendency enforces universities to accept student according to the gender.",
+                "To conclude, I strongly believe that universities must open choice for everyone to select his subject."
+            ],
+            [
+                "This tendency enforces universities to accept student according to the gender.",
+                "So we must give them opportunity to achieve their goal."
+            ],
+            [
+                "Universities should accept equal numbers of students of both genders.",
+                "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor."
+            ],
+            [
+                "Universities should accept equal numbers of students of both genders.",
+                "To conclude, I strongly believe that universities must open choice for everyone to select his subject."
+            ],
+            [
+                "Initially, if we look into the fact, women have proved themselves in every field whether it is indoor or outdoor.",
+                "To conclude, I strongly believe that universities must open choice for everyone to select his subject."
+            ]
+        ]
+    }
+}

@@ -1,0 +1,298 @@
+{
+    "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.": {
+        "evidence": [
+            "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media."
+        ],
+        "stance": "PRO"
+    },
+    "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.": {
+        "evidence": [
+            "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences."
+        ],
+        "stance": "CON"
+    },
+    "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.": {
+        "evidence": [
+            "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences. This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.",
+            "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable."
+        ],
+        "stance": "CON"
+    },
+    "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government.": {
+        "evidence": [
+            "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government."
+        ],
+        "stance": "CON"
+    },
+    "It should be reporting and reflecting true phenomenon in the society.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "Violence, as one of the facts in the real world, certainly has to be reported.": {
+        "evidence": [
+            "Violence, as one of the facts in the real world, certainly has to be reported."
+        ],
+        "stance": "CON"
+    },
+    "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well.": {
+        "evidence": [
+            "Violence, as one of the facts in the real world, certainly has to be reported. However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well.",
+            "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well."
+        ],
+        "stance": "PRO"
+    },
+    "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure.": {
+        "evidence": [
+            "It is recently reported in the news that a seventeen-year-old boy killed all his family members, one sister and two parents out of hatred and jealousy. In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure.",
+            "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure."
+        ],
+        "stance": "PRO"
+    },
+    "We cannot deny that our society is occupied with the violent scenes and plots at present.": {
+        "evidence": [
+            "We cannot deny that our society is occupied with the violent scenes and plots at present."
+        ],
+        "stance": "PRO"
+    },
+    "What the government should do immediately is to strengthen censorship to control the amount of violence in media.": {
+        "evidence": [
+            "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+        ],
+        "stance": "CON"
+    },
+    "Otherwise, the violent crime rate will rise continuously and out of control someday.": {
+        "evidence": [
+            "It is recently reported in the news that a seventeen-year-old boy killed all his family members, one sister and two parents out of hatred and jealousy.",
+            "Otherwise, the violent crime rate will rise continuously and out of control someday."
+        ],
+        "stance": "PRO"
+    },
+    "relations": {
+        "support": [
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences."
+            ],
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government."
+            ],
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "It should be reporting and reflecting true phenomenon in the society."
+            ],
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "Violence, as one of the facts in the real world, certainly has to be reported."
+            ],
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well."
+            ],
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure."
+            ],
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "We cannot deny that our society is occupied with the violent scenes and plots at present."
+            ],
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+            ],
+            [
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.",
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government."
+            ],
+            [
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.",
+                "It should be reporting and reflecting true phenomenon in the society."
+            ],
+            [
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.",
+                "Violence, as one of the facts in the real world, certainly has to be reported."
+            ],
+            [
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.",
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure."
+            ],
+            [
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.",
+                "We cannot deny that our society is occupied with the violent scenes and plots at present."
+            ],
+            [
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.",
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+            ],
+            [
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ],
+            [
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government.",
+                "It should be reporting and reflecting true phenomenon in the society."
+            ],
+            [
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government.",
+                "Violence, as one of the facts in the real world, certainly has to be reported."
+            ],
+            [
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government.",
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well."
+            ],
+            [
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government.",
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure."
+            ],
+            [
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government.",
+                "We cannot deny that our society is occupied with the violent scenes and plots at present."
+            ],
+            [
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government.",
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+            ],
+            [
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ],
+            [
+                "It should be reporting and reflecting true phenomenon in the society.",
+                "Violence, as one of the facts in the real world, certainly has to be reported."
+            ],
+            [
+                "It should be reporting and reflecting true phenomenon in the society.",
+                "We cannot deny that our society is occupied with the violent scenes and plots at present."
+            ],
+            [
+                "It should be reporting and reflecting true phenomenon in the society.",
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+            ],
+            [
+                "It should be reporting and reflecting true phenomenon in the society.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ],
+            [
+                "Violence, as one of the facts in the real world, certainly has to be reported.",
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure."
+            ],
+            [
+                "Violence, as one of the facts in the real world, certainly has to be reported.",
+                "We cannot deny that our society is occupied with the violent scenes and plots at present."
+            ],
+            [
+                "Violence, as one of the facts in the real world, certainly has to be reported.",
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+            ],
+            [
+                "Violence, as one of the facts in the real world, certainly has to be reported.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ],
+            [
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure.",
+                "We cannot deny that our society is occupied with the violent scenes and plots at present."
+            ],
+            [
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure.",
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+            ],
+            [
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ],
+            [
+                "We cannot deny that our society is occupied with the violent scenes and plots at present.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ]
+        ],
+        "attack": [
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable."
+            ],
+            [
+                "The soaring crime rate has led to the proposal that it is time for the government to take action to control the proliferation of violent scenes in media.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ],
+            [
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.",
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable."
+            ],
+            [
+                "Obviously, violence in the media is often portrayed as extreme as possible in order to attract audiences.",
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well."
+            ],
+            [
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.",
+                "On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government."
+            ],
+            [
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.",
+                "It should be reporting and reflecting true phenomenon in the society."
+            ],
+            [
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.",
+                "Violence, as one of the facts in the real world, certainly has to be reported."
+            ],
+            [
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.",
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well."
+            ],
+            [
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.",
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure."
+            ],
+            [
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.",
+                "We cannot deny that our society is occupied with the violent scenes and plots at present."
+            ],
+            [
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.",
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+            ],
+            [
+                "This will definitely set a bad example for the immature audiences who, lacking correct parental guidance and abilities to differentiate the right from wrong, are prone to go astray by imitating the violent behaviors and committing real violent crimes as they regard the violence as reasonable and justifiable.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ],
+            [
+                "It should be reporting and reflecting true phenomenon in the society.",
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well."
+            ],
+            [
+                "Violence, as one of the facts in the real world, certainly has to be reported.",
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well."
+            ],
+            [
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well.",
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure."
+            ],
+            [
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well.",
+                "We cannot deny that our society is occupied with the violent scenes and plots at present."
+            ],
+            [
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well.",
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+            ],
+            [
+                "However, excessive violence would offer misleading information to the public and exert detrimental influence to the society as well.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ],
+            [
+                "We cannot deny that our society is occupied with the violent scenes and plots at present.",
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media."
+            ],
+            [
+                "What the government should do immediately is to strengthen censorship to control the amount of violence in media.",
+                "Otherwise, the violent crime rate will rise continuously and out of control someday."
+            ]
+        ],
+        "no_relation": [
+            [
+                "It should be reporting and reflecting true phenomenon in the society.",
+                "In the real world, we are inclined to take extreme approach to tackle a small problem due to excessive violence exposure."
+            ]
+        ]
+    }
+}

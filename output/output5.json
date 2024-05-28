@@ -1,0 +1,452 @@
+{
+    "It is very hard to find a home that does not have a television.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "Nowadays, number of television channels and programs are increasing everyday.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "I agree with that idea that television devastate families ties.": {
+        "evidence": [
+            "I agree with that idea that television devastate families ties."
+        ],
+        "stance": "PRO"
+    },
+    "In spite of enjoying watching television shows, it is really time consuming task.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "Emergence of new television channels or shows are not surprising.": {
+        "evidence": [],
+        "stance": "CON"
+    },
+    "This is a problem that suffers all of us everyday.": {
+        "evidence": [],
+        "stance": "PRO"
+    },
+    "Second, I think watching television programs makes us lazy.": {
+        "evidence": [
+            "Second, I think watching television programs makes us lazy."
+        ],
+        "stance": "PRO"
+    },
+    "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports.": {
+        "evidence": [
+            "We usually spend our times in front of television for at least three ours a day when we come back home after eight-hour working in the office. Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports.",
+            "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports."
+        ],
+        "stance": "PRO"
+    },
+    "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable.": {
+        "evidence": [
+            "Second, I think watching television programs makes us lazy.",
+            "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports. This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable.",
+            "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+        ],
+        "stance": "PRO"
+    },
+    "Last but not least, some television programs have a negative effect on viewers.": {
+        "evidence": [
+            "Last but not least, some television programs have a negative effect on viewers."
+        ],
+        "stance": "PRO"
+    },
+    "These genre of programs has more negative effects on our teenagers.": {
+        "evidence": [
+            "Some thriller or action movies advertise negative activities such as doing criminal activity. These genre of programs has more negative effects on our teenagers.",
+            "These genre of programs has more negative effects on our teenagers."
+        ],
+        "stance": "PRO"
+    },
+    "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive.": {
+        "evidence": [
+            "These genre of programs has more negative effects on our teenagers. They usually try to mimic what they see on movies in their daily behaviors. To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive.",
+            "They usually try to mimic what they see on movies in their daily behaviors. To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive.",
+            "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+        ],
+        "stance": "PRO"
+    },
+    "I think it is a global problem to solve this problem and it is need global contribution to find a solution.": {
+        "evidence": [
+            "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+        ],
+        "stance": "CON"
+    },
+    "relations": {
+        "support": [
+            [
+                "It is very hard to find a home that does not have a television.",
+                "Nowadays, number of television channels and programs are increasing everyday."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "I agree with that idea that television devastate families ties."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "In spite of enjoying watching television shows, it is really time consuming task."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "Emergence of new television channels or shows are not surprising."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "This is a problem that suffers all of us everyday."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "In spite of enjoying watching television shows, it is really time consuming task."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "Emergence of new television channels or shows are not surprising."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "In spite of enjoying watching television shows, it is really time consuming task.",
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports."
+            ],
+            [
+                "Emergence of new television channels or shows are not surprising.",
+                "Second, I think watching television programs makes us lazy."
+            ],
+            [
+                "Emergence of new television channels or shows are not surprising.",
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports."
+            ],
+            [
+                "Emergence of new television channels or shows are not surprising.",
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+            ],
+            [
+                "Emergence of new television channels or shows are not surprising.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "This is a problem that suffers all of us everyday.",
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports."
+            ],
+            [
+                "This is a problem that suffers all of us everyday.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "Second, I think watching television programs makes us lazy.",
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports."
+            ],
+            [
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports.",
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+            ],
+            [
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ]
+        ],
+        "attack": [
+            [
+                "It is very hard to find a home that does not have a television.",
+                "Second, I think watching television programs makes us lazy."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "It is very hard to find a home that does not have a television.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "I agree with that idea that television devastate families ties."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "This is a problem that suffers all of us everyday."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "Second, I think watching television programs makes us lazy."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "I agree with that idea that television devastate families ties."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "In spite of enjoying watching television shows, it is really time consuming task."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "Second, I think watching television programs makes us lazy."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "In spite of enjoying watching television shows, it is really time consuming task."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "This is a problem that suffers all of us everyday."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "Second, I think watching television programs makes us lazy."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "I agree with that idea that television devastate families ties.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "In spite of enjoying watching television shows, it is really time consuming task.",
+                "This is a problem that suffers all of us everyday."
+            ],
+            [
+                "In spite of enjoying watching television shows, it is really time consuming task.",
+                "Second, I think watching television programs makes us lazy."
+            ],
+            [
+                "In spite of enjoying watching television shows, it is really time consuming task.",
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+            ],
+            [
+                "In spite of enjoying watching television shows, it is really time consuming task.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "In spite of enjoying watching television shows, it is really time consuming task.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "In spite of enjoying watching television shows, it is really time consuming task.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "In spite of enjoying watching television shows, it is really time consuming task.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "Emergence of new television channels or shows are not surprising.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "This is a problem that suffers all of us everyday.",
+                "Second, I think watching television programs makes us lazy."
+            ],
+            [
+                "This is a problem that suffers all of us everyday.",
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+            ],
+            [
+                "This is a problem that suffers all of us everyday.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "This is a problem that suffers all of us everyday.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "This is a problem that suffers all of us everyday.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "Second, I think watching television programs makes us lazy.",
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable."
+            ],
+            [
+                "Second, I think watching television programs makes us lazy.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "Second, I think watching television programs makes us lazy.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "Second, I think watching television programs makes us lazy.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "Second, I think watching television programs makes us lazy.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "Hence, we do not have time to spend for healthy activity such as going to a gym or doing other sports.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "This makes us a lazy person who prefers to do sedentary activities like watching television shows rather than be active and sociable.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "Last but not least, some television programs have a negative effect on viewers.",
+                "These genre of programs has more negative effects on our teenagers."
+            ],
+            [
+                "Last but not least, some television programs have a negative effect on viewers.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "Last but not least, some television programs have a negative effect on viewers.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "These genre of programs has more negative effects on our teenagers.",
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive."
+            ],
+            [
+                "These genre of programs has more negative effects on our teenagers.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "To sum up, killing our time, making us lazy, and advertising negative behaviors are just only few reasons to show how television is destructive.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ]
+        ],
+        "no_relation": [
+            [
+                "Nowadays, number of television channels and programs are increasing everyday.",
+                "Emergence of new television channels or shows are not surprising."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "Emergence of new television channels or shows are not surprising."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "This is a problem that suffers all of us everyday."
+            ],
+            [
+                "Unfortunately, most of people do not have a plan for make a limitation or schedule for watching television.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ],
+            [
+                "In spite of enjoying watching television shows, it is really time consuming task.",
+                "Emergence of new television channels or shows are not surprising."
+            ],
+            [
+                "Emergence of new television channels or shows are not surprising.",
+                "This is a problem that suffers all of us everyday."
+            ],
+            [
+                "Emergence of new television channels or shows are not surprising.",
+                "Last but not least, some television programs have a negative effect on viewers."
+            ],
+            [
+                "Emergence of new television channels or shows are not surprising.",
+                "I think it is a global problem to solve this problem and it is need global contribution to find a solution."
+            ]
+        ]
+    }
+}
